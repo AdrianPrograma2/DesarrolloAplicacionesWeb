@@ -50,7 +50,7 @@ options {
 };
 ```
 
-![Configuración del archivo named.conf.options para caché](./images/03_configuracionBind.png)
+
 
 ### Comprobar que no he roto nada
 
@@ -78,7 +78,7 @@ He vuelto a editar el mismo archivo `/etc/bind/named.conf.options` y he añadido
         };
 ```
 
-![Añadiendo los forwarders de Google](./images/05_forwarders.png)
+
 
 Después de guardar, aplicamos los cambios con un reinicio:
 
